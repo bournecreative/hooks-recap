@@ -1,9 +1,9 @@
-import { ExampleUseReducer1 } from "./components/6useReducer/exampleUseReducer1/index";
+import { ExampleUseReducer2 } from "./components/6useReducer/exampleUseReducer2/index";
 
 function App() {
   return (
     <div>
-      <ExampleUseReducer1 />
+      <ExampleUseReducer2 />
     </div>
   );
 }
