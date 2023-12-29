@@ -1,9 +1,9 @@
-import { ExampleUseRef3 } from "./components/3useRef/exampleUseRef3/index";
+import { ExampleUseReducer1 } from "./components/6useReducer/exampleUseReducer1/index";
 
 function App() {
   return (
     <div>
-      <ExampleUseRef3 />
+      <ExampleUseReducer1 />
     </div>
   );
 }
